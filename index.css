@@ -1,0 +1,29 @@
+* {
+    font-family: 1;
+  }
+  
+  img {
+    background-size: 150px;
+  }
+  h1 {
+    -webkit-text-fill-color: seagreen;
+    -webkit-text-stroke: 1px black;
+    background-color: rgb(210, 238, 221);
+    border: 3px solid rgb(5, 48, 15);
+    padding: 10px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+  }
+
+  p {
+    color: black;
+    
+  }
+  h1, p {
+    background-color: rgb(210, 238, 221);
+  }
+  body {
+    background-image: url(https://img.freepik.com/free-vector/engraving-hand-drawn-botanical-pattern_23-2148978772.jpg?size=338&ext=jpg&ga=GA1.1.386372595.1697932800&semt=ais)
+  }
